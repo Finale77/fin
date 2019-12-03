@@ -1,3 +1,8 @@
+#Trabalho Final Arquitetura e Organização de Computadores
+#Edvaldo Pereira da Silva Júnior - 112.317
+#Lucy Braga dos Santos - 112.227
+#Thiago da Silva Rosário - 112.261
+
 .data
 	#Alguns exemplos de cores
 	yellow:   .word 0xF5F62E
